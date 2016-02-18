@@ -1,0 +1,5 @@
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\4. FirstLastName\bin\Debug\_4.FirstLastName.exe.config
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\4. FirstLastName\bin\Debug\_4.FirstLastName.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\4. FirstLastName\bin\Debug\_4.FirstLastName.pdb
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\4. FirstLastName\obj\Debug\_4.FirstLastName.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\4. FirstLastName\obj\Debug\_4.FirstLastName.pdb

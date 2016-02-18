@@ -1,0 +1,5 @@
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\5. CurrentDateTime\bin\Debug\_5.CurrentDateTime.exe.config
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\5. CurrentDateTime\bin\Debug\_5.CurrentDateTime.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\5. CurrentDateTime\bin\Debug\_5.CurrentDateTime.pdb
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\5. CurrentDateTime\obj\Debug\_5.CurrentDateTime.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\5. CurrentDateTime\obj\Debug\_5.CurrentDateTime.pdb

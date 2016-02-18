@@ -1,0 +1,6 @@
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\1. HelloCSharp\bin\Debug\_1.HelloCSharp.exe.config
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\1. HelloCSharp\bin\Debug\_1.HelloCSharp.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\1. HelloCSharp\bin\Debug\_1.HelloCSharp.pdb
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\1. HelloCSharp\obj\Debug\1. HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\1. HelloCSharp\obj\Debug\_1.HelloCSharp.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\1. HelloCSharp\obj\Debug\_1.HelloCSharp.pdb

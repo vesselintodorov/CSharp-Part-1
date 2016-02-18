@@ -1,0 +1,5 @@
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\7. Sequence\bin\Debug\_7.Sequence.exe.config
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\7. Sequence\bin\Debug\_7.Sequence.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\7. Sequence\bin\Debug\_7.Sequence.pdb
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\7. Sequence\obj\Debug\_7.Sequence.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\7. Sequence\obj\Debug\_7.Sequence.pdb

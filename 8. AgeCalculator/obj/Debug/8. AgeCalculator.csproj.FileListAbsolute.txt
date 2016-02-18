@@ -1,0 +1,6 @@
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\8. AgeCalculator\bin\Debug\_8.AgeCalculator.exe.config
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\8. AgeCalculator\bin\Debug\_8.AgeCalculator.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\8. AgeCalculator\bin\Debug\_8.AgeCalculator.pdb
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\8. AgeCalculator\obj\Debug\8. AgeCalculator.csprojResolveAssemblyReference.cache
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\8. AgeCalculator\obj\Debug\_8.AgeCalculator.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\8. AgeCalculator\obj\Debug\_8.AgeCalculator.pdb

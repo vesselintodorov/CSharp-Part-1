@@ -1,0 +1,5 @@
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\6. Square\bin\Debug\_6.Square.exe.config
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\6. Square\bin\Debug\_6.Square.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\6. Square\bin\Debug\_6.Square.pdb
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\6. Square\obj\Debug\_6.Square.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\6. Square\obj\Debug\_6.Square.pdb

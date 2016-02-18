@@ -1,0 +1,5 @@
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\2. Name\bin\Debug\_2.Name.exe.config
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\2. Name\bin\Debug\_2.Name.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\2. Name\bin\Debug\_2.Name.pdb
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\2. Name\obj\Debug\_2.Name.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\2. Name\obj\Debug\_2.Name.pdb

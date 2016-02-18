@@ -1,0 +1,6 @@
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\3. Numbers\bin\Debug\_3.Numbers.exe.config
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\3. Numbers\bin\Debug\_3.Numbers.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\3. Numbers\bin\Debug\_3.Numbers.pdb
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\3. Numbers\obj\Debug\3. Numbers.csprojResolveAssemblyReference.cache
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\3. Numbers\obj\Debug\_3.Numbers.exe
+c:\users\whatafr3ak\documents\visual studio 2013\Projects\IntroductionToProgramming\3. Numbers\obj\Debug\_3.Numbers.pdb
